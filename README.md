@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awakenedmind&label=Profile%20views&color=0e75b6&style=flat" alt="awakenedmind" /> </p>
 
-I’m currently working on...
 
-![zano-logo-with-name](https://user-images.githubusercontent.com/43525127/203470990-01fc24be-57e9-493c-8f4a-806f6da7a711.svg)
 
 - ⚡ Having fun learning Actix-Web <img src="https://avatars.githubusercontent.com/u/32776943?s=200&v=4" alt="docker" width="20" height="20"/> and Tauri <img src="https://tauri.app/meta/favicon-apple-touch-icon.png" width="20" height="20" />
 - ❤️ Rust and Javascript 

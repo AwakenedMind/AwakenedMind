@@ -5,7 +5,7 @@
 
 
 
-- ⚡ Having fun learning Actix-Web <img src="https://avatars.githubusercontent.com/u/32776943?s=200&v=4" alt="docker" width="20" height="20"/> and Tauri <img src="https://tauri.app/meta/favicon-apple-touch-icon.png" width="20" height="20" />
+- ⚡ Having fun learning Rust!
 - ❤️ Rust and Javascript 
 
 

@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rob</h1>
-<h3 align="center">A coder from Cali</h3>
+<h3 align="center">React Native Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awakenedmind&label=Profile%20views&color=0e75b6&style=flat" alt="awakenedmind" /> </p>
 
 
 
 - ❤️ Rust and Typescript 
-- React Native Engineer
 - ⚡ Spending most of my time playing with universal app development using a single core codebase that supports Windows Linux MacOS Web iOS Android using Expo + Tauri
 
 

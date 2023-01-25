@@ -5,9 +5,9 @@
 
 
 
-- ⚡ Having fun learning Rust!
-- ❤️ Rust and Javascript 
-- Spending most of my time playing with universal app development with a single core codebase that supports Windows Linux MacOS Web iOS Android using Expo Web + Tauri
+- ❤️ Rust and Typescript 
+- React Native Engineer
+- ⚡ Spending most of my time playing with universal app development using a single core codebase that supports Windows Linux MacOS Web iOS Android using Expo + Tauri
 
 
 

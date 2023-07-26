@@ -6,7 +6,7 @@
 
 
 - ❤️ Go and Typescript 
-- ⚡ Spending most of my time playing with universal app development using a single core codebase that supports Windows Linux MacOS Web iOS Android using Expo + Tauri https://github.com/chen-rn/CUA
+- ⚡ Spending most of my time playing with universal app development using a single core codebase that supports Windows Linux MacOS Web iOS Android using Expo + Tauri 
 
 
 

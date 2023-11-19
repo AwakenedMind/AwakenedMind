@@ -5,8 +5,7 @@
 
 
 
-- ❤️ Go and Typescript 
-- ⚡ Spending most of my time playing with universal app development using a single core codebase that supports Windows Linux MacOS Web iOS Android using Expo + Tauri 
+- Building an AI Agent Swarm to work as my employees to build the next unicorn using a universal app that supports (iOS Android Linux Web Desktop)
 
 
 

@@ -5,7 +5,7 @@
 
 
 
-- Building an AI Agent Swarm to work as my employees to build the next unicorn using a universal app that supports (iOS Android Linux Web Desktop)
+- Just building
 
 
 
